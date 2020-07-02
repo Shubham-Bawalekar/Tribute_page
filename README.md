@@ -1,2 +1,4 @@
 # Tribute_page
-Paul Walker tribute page
+This is aPaul Walker tribute page.
+It makes up the first part of my coding portfolio.
+
